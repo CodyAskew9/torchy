@@ -1,3 +1,4 @@
+Torchy is a bot made for Discord with DiscordJS to play muisc and greet new memebers.
 # DisTube Example
 
 DisTube.js.org example music bot with command handler
